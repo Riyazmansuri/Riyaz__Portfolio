@@ -1,0 +1,28 @@
+.copyright {
+
+
+
+    button {
+
+        padding: 0.25rem 0.5rem;
+        border-radius: 15px;
+        border: none;
+        background-color: #9BA3EB;
+        font-weight: 300;
+        color: var(--white-color);
+        outline: none;
+        // margin: 1rem 0 0 0;
+
+        font-family: var(--font-base);
+        cursor: pointer;
+    }
+}
+
+.resumeButton {
+    margin-right: 1.5%;
+    margin-bottom: .5%;
+}
+
+.downloadIcon {
+    padding-top: 3%;
+}
