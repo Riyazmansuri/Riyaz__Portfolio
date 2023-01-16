@@ -5,7 +5,7 @@ It's my Portfolio Website
 ## How it looks
 
 
-![Finished App](https://github.com/Riyazmansuri/ScreenShots/blob/my_portfolio.gif)
+![Finished App](https://github.com/Riyazmansuri/ScreenShots/blob/main/my_portfolio.gif)
 
 
 ps:- it's a low quality gif
